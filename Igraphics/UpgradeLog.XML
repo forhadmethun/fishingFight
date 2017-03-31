@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Igraphics">
+</Property><Property Name="Solution File" Value="C:\Users\fOrHaD_\Desktop\Igraphics\Igraphics.sln">
+</Property><Property Name="User Options File" Value="C:\Users\fOrHaD_\Desktop\Igraphics\Igraphics.suo">
+</Property><Property Name="Date" Value="Thursday, February 13, 2014">
+</Property><Property Name="Time" Value="9:45 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Igraphics.sln" Description="File successfully backed up as C:\Users\fOrHaD_\Desktop\Igraphics\Igraphics.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Igraphics.suo" Description="File successfully backed up as C:\Users\fOrHaD_\Desktop\Igraphics\Igraphics.suo.old">
+</Event><Event ErrorLevel="0" Project="Igraphics" Source="Igraphics.vcproj" Description="Converting project file 'C:\Users\fOrHaD_\Desktop\Igraphics\Igraphics.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Igraphics" Source="Igraphics.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Igraphics" Source="Igraphics.vcproj" Description="Done converting to new project file 'C:\Users\fOrHaD_\Desktop\Igraphics\Igraphics.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Igraphics" Source="Igraphics.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Igraphics.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Igraphics.sln" Description="Converted">
+</Event></UpgradeLog>
